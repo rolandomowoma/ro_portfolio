@@ -20,9 +20,9 @@ const Home = () => {
               </span>
             </button>
           </div>
-          <div className='mx-[25%] mb-[-12] pt-4 px-12 py-2 bg-[#df8723c0] h-[80px]'>
+          <div className='mx-[25%] mb-[-12] pt-4 px-12 py-2 bg-[#df8723c0] h-[80px]'> 
             <p className='text-[#d2cdec] pt-2'>To register for hands-on training in web development and other courses <a href='/' className='text-lime-400' >click here</a>..</p>
-          </div>
+          </div> 
         </div>    
     </div>
   )
